@@ -1,4 +1,5 @@
 # Case-Social-Connect
+<<<<<<< HEAD
 
 Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
 
@@ -14,3 +15,4 @@ Foi feito adição da pasta "Projetos" e redes sociais no footer.
 5.Carlos : Adicionou as Redes Sociais com descrições.
 
 -> Dificuldades encontradas: Encontrar pushs enviados ao origin e conseguir lembrar dos comandos, como (git add . ; git push ; git pull)
+
