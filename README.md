@@ -12,7 +12,7 @@ Foi feito adição da pasta "Projetos" e redes sociais no footer.
 2. Rodrigo Hiroshi: Alterou as imagens erradas(não dava resposta) para as corretas.
 3. Vinicius Pinheiro: Alterou a cor do background de (RED para a correta (#2980b9))
 4. Mauricio Alves: Corrigiu o footer no projeto
-5.Carlos : Adicionou as Redes Sociais com descrições.
+5. Carlos : Adicionou as Redes Sociais com descrições.
 
 -> Dificuldades encontradas: Encontrar pushs enviados ao origin e conseguir lembrar dos comandos, como (git add . ; git push ; git pull)
 
